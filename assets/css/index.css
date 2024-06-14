@@ -1,0 +1,25 @@
+.carta{
+    background-image: url(../img/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 18rem;
+    box-shadow: 3px 4px 4px 4px rgb(125, 104, 104);
+}
+
+#typeOptions{
+ width: 25%;
+ box-shadow: 3px 4px 4px 4px rgb(125, 104, 104);
+}
+
+.cardError{
+    max-width: 540px;
+    box-shadow: 3px 4px 4px 4px rgb(125, 104, 104);
+}
+
+.cardPokemon{
+    height: 320px;
+}
+
+.imagen-logo{
+    height: 150px;
+}
